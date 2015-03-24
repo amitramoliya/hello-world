@@ -1,4 +1,7 @@
-    'ngAnimate',
+
+1. dependency to learn
+
+'ngAnimate',
     'ngCookies',
     'ngResource',
     'ngSanitize',
@@ -11,3 +14,12 @@
     'ui.jq',
     'oc.lazyLoad',
     'pascalprecht.translate'
+    
+2. theme source
+    https://www.youtube.com/watch?v=dtmXc2ROWQQ
+        
+    
+    
+    
+    
+    
